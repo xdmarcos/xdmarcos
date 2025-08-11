@@ -1,5 +1,7 @@
 # 💫 About Me:
-👨‍💻 Senior iOS Developer<br><br>I have been in the mobile development area since 2011 involved in every aspect <br>of a project life cycle, from product definition, technical design, development, <br>release and distribution. Result-driven and an analytical.
+👨‍💻 Senior iOS Engineer with over 14 years of experience in native mobile development, driving projects from concept to release. Skilled in product definition, technical design, milestone planning, prototyping, development, and app store delivery.
+
+Known for a results-driven, analytical approach to solving complex problems efficiently. Currently leading the iOS team as Apps Tribe Lead, overseeing feature implementation in an agile environment, setting up CI/CD pipelines, defining app architectures, and mentoring developers. Passionate about staying ahead of mobile technology trends and delivering high-quality, scalable apps.
 
 
 ## 🌐 Socials:
