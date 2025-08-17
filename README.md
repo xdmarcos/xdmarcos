@@ -1,5 +1,5 @@
-Senior iOS Engineer | Swift, SwiftUI, Objective-C | Mobile Apps
-===============================================================
+Senior iOS Engineer | Swift, SwiftUI, Objective-C
+=================================================
 
 # 💫 About Me:
 👨‍💻 Senior iOS Engineer with over 14 years of experience in native mobile development, driving projects from concept to release. Skilled in product definition, technical design, milestone planning, prototyping, development, and app store delivery.
