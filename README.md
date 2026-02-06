@@ -3,10 +3,9 @@ Senior iOS Engineer | Swift, SwiftUI, Objective-C
 
 
 # 💫 About Me:
-👨‍💻 Senior iOS Engineer with over 14 years of experience in native mobile development, driving projects from concept to release. Skilled in product definition, technical design, milestone planning, prototyping, development, and app store delivery.
+👨‍💻 Senior iOS Engineer with 15+ years of experience building and evolving native iOS applications across multiple industries and large-scale product environments. Strong expertise in Swift, SwiftUI, UIKit, Swift Concurrency, and Combine, with a solid background in modern architecture, modularization, and async programming. Trusted to drive technical decisions, define architecture standards, and deliver scalable, high-quality applications while remaining hands-on in the codebase. Strong focus on performance optimization, test automation, and maintainable code using MVVM and TCA. Practical experience applying generative AI and agent-style workflows to improve code quality and development efficiency.
 
-Known for a results-driven, analytical approach to solving complex problems efficiently. Currently leading the iOS team as Apps Tribe Lead, overseeing feature implementation in an agile environment, setting up CI/CD pipelines, defining app architectures, and mentoring developers. Passionate about staying ahead of mobile technology trends and delivering high-quality, scalable apps.
-
+To know a bit more about me, please take a look to my profile.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosagonzalezpinheiro) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4900266) 
